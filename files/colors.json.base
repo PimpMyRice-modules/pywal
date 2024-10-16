@@ -1,0 +1,28 @@
+{
+  "wallpaper": "{{wallpaper.path}}",
+  "alpha": "100",
+
+  "special": {
+    "background": "{{panel.bg}}",
+    "foreground": "{{panel.fg}}",
+    "cursor": "{{term.color15}}"
+  },
+  "colors": {
+    "color0": "{{term.color0}}",
+    "color1": "{{term.color1}}",
+    "color2": "{{term.color2}}",
+    "color3": "{{term.color3}}",
+    "color4": "{{term.color4}}",
+    "color5": "{{term.color5}}",
+    "color6": "{{term.color6}}",
+    "color7": "{{term.color7}}",
+    "color8": "{{term.color8}}",
+    "color9": "{{term.color9}}",
+    "color10": "{{term.color10}}",
+    "color11": "{{term.color11}}",
+    "color12": "{{term.color12}}",
+    "color13": "{{term.color13}}",
+    "color14": "{{term.color14}}",
+    "color15": "{{term.color15}}"
+  }
+}

@@ -1,0 +1,24 @@
+" Special
+let wallpaper  = "{{wallpaper.path}}"
+let background = "{{panel.bg.alt}}"
+let foreground = "{{panel.fg}}"
+let cursor     = "{{term.color15}}"
+
+" Colors
+let color0  = "{{term.color0}}"
+let color1  = "{{term.color1}}"
+let color2  = "{{term.color2}}"
+let color3  = "{{term.color3}}"
+let color4  = "{{term.color4}}"
+let color5  = "{{term.color5}}"
+let color6  = "{{term.color6}}"
+let color7  = "{{term.color7}}"
+let color8  = "{{term.color8}}"
+let color9  = "{{term.color9}}"
+let color10 = "{{term.color10}}"
+let color11 = "{{term.color11}}"
+let color12 = "{{term.color12}}"
+let color13 = "{{term.color13}}"
+let color14 = "{{term.color14}}"
+let color15 = "{{term.color15}}"
+

@@ -1,0 +1,5 @@
+run:
+  - file: '~/.cache/wal/colors'
+  - file: '~/.cache/wal/colors.json'
+  - file: '~/.cache/wal/colors-wal.vim'
+  - file: '~/.cache/wal/userContent.css'
