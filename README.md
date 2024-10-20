@@ -5,5 +5,5 @@
 ## Set up
 
 ```bash
-rice clone module pimp://pywal
+pimp clone module pimp://pywal
 ```
