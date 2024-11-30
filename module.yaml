@@ -1,5 +1,11 @@
+# yaml-language-server: $schema=../../.json_schemas/module.json
+
 run:
-  - file: '~/.cache/wal/colors'
-  - file: '~/.cache/wal/colors.json'
-  - file: '~/.cache/wal/colors-wal.vim'
-  - file: '~/.cache/wal/userContent.css'
+  - action: file
+    target: ~/.cache/wal/colors
+  - action: file
+    target: ~/.cache/wal/colors.json
+  - action: file
+    target: ~/.cache/wal/colors-wal.vim
+  - action: file
+    target: ~/.cache/wal/userContent.css
